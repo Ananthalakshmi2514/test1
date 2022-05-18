@@ -1,0 +1,22 @@
+.app{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 20px;
+}
+.textfield{
+  width: 20%;
+}
+.form
+{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  
+  margin-top: 50px;
+}
+.btn{
+  padding: 10px;
+}
+
